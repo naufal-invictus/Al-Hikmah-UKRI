@@ -1,0 +1,162 @@
+{
+  "id": "chapter-2",
+  "metadata": {
+    "title": "Andalusia: The Lost Jewel of Europe",
+    "subtitle": "Eropa Rasa Islam: Sains, Fashion, & Toleransi",
+    "description": "Kisah peradaban Islam di Spanyol. Mulai dari kota paling modern, manusia terbang pertama, sampai pelajaran pahit keruntuhan.",
+    "thumbnail": "https://i.ibb.co.com/xt6gVJ9N/andalus.png",
+    "tags": ["Eropa", "Lifestyle", "Sains"],
+    "category": "Sejarah"
+  },
+  "content": [
+    {
+      "section_id": "intro-cordoba",
+      "blocks": [
+        { "type": "heading", "text": "Cordoba: Kota Paling 'Lit' di Eropa" },
+        {
+          "type": "image",
+          "src": "https://i.ibb.co.com/xt6gVJ9N/andalus.png",
+          "caption": "Arsitektur Andalusia yang detail dan memukau.",
+          "position": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bayangin tahun 900-an Masehi. London dan Paris masih jalanannya lumpur, gelap, dan warganya jarang mandi. Tapi di **Cordoba (Spanyol Islam)**, jalanan udah dipasang lampu jalan, ada air mengalir ke rumah-rumah, dan ada ratusan perpustakaan umum."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cordoba saat itu adalah **'The Jewel of the World'**. Orang Eropa kaya kalau mau sekolah keren, ya harus ke Cordoba."
+        }
+      ]
+    },
+    {
+      "section_id": "ziryab",
+      "blocks": [
+        { "type": "heading", "text": "Ziryab: Bapak Lifestyle & Fashion" },
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1517260739337-6799d2fb9dc0?q=80&w=800&auto=format&fit=crop",
+          "caption": "Ilustrasi gaya hidup berkelas (Oud/Musik).",
+          "position": "right"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kamu suka *fine dining*? Atau gonta-ganti baju sesuai musim? Berterima kasihlah pada **Ziryab**. Dia adalah *influencer* paling hits di Andalusia."
+        },
+        {
+          "type": "list",
+          "items": [
+            "**3 Course Meal:** Dia yang ngenalin konsep makan: Sop (pembuka) -> Menu Utama -> Manisan/Dessert. Ini ditiru seluruh Eropa sampai sekarang.",
+            "**Fashion:** Dia ngajarin orang pake baju cerah tipis pas musim panas, dan baju tebal gelap pas musim dingin.",
+            "**Personal Care:** Dia ngenalin pasta gigi dan deodoran biar wangi!"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "ibn-firnas",
+      "blocks": [
+        { "type": "heading", "text": "Abbas bin Firnas: The First Iron Man" },
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1505567745926-ba89000d2c47?q=80&w=800&auto=format&fit=crop",
+          "caption": "Mimpi manusia untuk terbang.",
+          "position": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "1000 tahun sebelum Wright Brothers nemuin pesawat, kakek bernama **Abbas bin Firnas** (umur 65 tahun!) nekat loncat dari tebing pake jubah bersayap buatannya."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dia berhasil melayang (gliding) selama beberapa menit sebelum jatuh dan punggungnya cedera. Walau jatuh, dia membuktikan bahwa **manusia BISA terbang** dengan aerodinamika. Namanya sekarang jadi nama kawah di Bulan."
+        }
+      ]
+    },
+    {
+      "section_id": "al-zahrawi",
+      "blocks": [
+        { "type": "heading", "text": "Al-Zahrawi: Dokter Bedah Jenius" },
+        {
+          "type": "paragraph",
+          "text": "Di kota Madinat al-Zahra, **Al-Zahrawi** (Abulcasis) nulis ensiklopedia kedokteran 30 jilid. Dia nemuin lebih dari 200 alat bedah yang desainnya masih dipake dokter zaman *now*."
+        },
+        {
+          "type": "quote",
+          "text": "Tanpa keahlian Al-Zahrawi, ilmu bedah modern mungkin akan tertinggal ratusan tahun.",
+          "author": "Sejarahwan Medis"
+        }
+      ]
+    },
+    {
+      "section_id": "masjid-cordoba",
+      "blocks": [
+        { "type": "heading", "text": "Mezquita: Keindahan yang Abadi" },
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1535208239377-7a28d793d043?q=80&w=800&auto=format&fit=crop",
+          "caption": "Interior Masjid Cordoba dengan lengkungan ikonik.",
+          "position": "right"
+        },
+        {
+          "type": "paragraph",
+          "text": "Masjid Agung Cordoba adalah *masterpiece*. Pilar-pilarnya didesain kayak hutan kurma. Ini nunjukin kalau seni Islam itu nggak cuma megah, tapi juga bikin jiwa tenang (Sakinah)."
+        }
+      ]
+    },
+    {
+      "section_id": "fall-of-granada",
+      "blocks": [
+        { "type": "heading", "text": "Pelajaran Pahit: Runtuhnya Granada" },
+        {
+          "type": "image",
+          "src": "https://images.unsplash.com/photo-1563810237175-10495f56b026?q=80&w=800&auto=format&fit=crop",
+          "caption": "Istana Alhambra, benteng terakhir.",
+          "position": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tapi, kejayaan ini runtuh. Kenapa? Bukan karena musuh yang terlalu kuat, tapi karena **Umat Islam berpecah belah** dan cinta dunia (*Wahn*)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Raja-raja kecil sibuk rebutan kekuasaan dan minta tolong ke musuh. Akhirnya pada 1492, benteng terakhir Granada jatuh. Ini pengingat keras buat kita: **Persatuan adalah Kunci.**"
+        }
+      ]
+    },
+    {
+      "section_id": "reflection",
+      "blocks": [
+        {
+          "type": "reflection",
+          "text": "Andalusia mengajarkan kita dua hal: Indahnya Islam saat diterapkan dengan ilmu & toleransi, dan hancurnya umat saat berpecah belah. Mana yang mau kita pilih hari ini?"
+        }
+      ]
+    }
+  ],
+  "references": [
+    "Menocal, Maria Rosa: The Ornament of the World",
+    "Dr. Raghib As-Sirjani: Bangkit dan Runtuhnya Andalusia",
+    "National Geographic: The Legacy of Al-Andalus"
+  ],
+  "quiz": [
+    {
+      "question": "Kota manakah yang menjadi ibukota peradaban Islam di Spanyol?",
+      "options": ["Madrid", "Barcelona", "Cordoba", "Valencia"],
+      "correct": 2,
+      "feedback": "Benar. Cordoba adalah kota cahaya di Eropa saat itu."
+    },
+    {
+      "question": "Siapakah tokoh yang memperkenalkan '3 course meal' dan fashion musiman?",
+      "options": ["Ibnu Firnas", "Ziryab", "Al-Zahrawi", "Tariq bin Ziyad"],
+      "correct": 1,
+      "feedback": "Tepat! Ziryab adalah icon lifestyle legendaris."
+    },
+    {
+      "question": "Ilmuwan yang mencoba terbang pertama kali dengan sayap buatan adalah...",
+      "options": ["Wright Brothers", "Abbas bin Firnas", "Ibnu Batutah", "Hezarfen"],
+      "correct": 1,
+      "feedback": "Benar. Beliau melakukan percobaan penerbangan pertama."
+    }
+  ]
+}
